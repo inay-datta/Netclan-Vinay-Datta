@@ -2,7 +2,6 @@
 //  Netclan_VinayApp.swift
 //  Netclan-Vinay
 //
-//  Created by Phanishree Kommalapati on 26/05/24.
 //
 
 import SwiftUI
