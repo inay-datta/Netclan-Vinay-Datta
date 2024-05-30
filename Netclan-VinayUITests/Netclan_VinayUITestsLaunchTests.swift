@@ -2,7 +2,6 @@
 //  Netclan_VinayUITestsLaunchTests.swift
 //  Netclan-VinayUITests
 //
-//  Created by Phanishree Kommalapati on 26/05/24.
 //
 
 import XCTest

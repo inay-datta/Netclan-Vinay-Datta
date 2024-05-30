@@ -2,7 +2,6 @@
 //  Netclan_VinayTests.swift
 //  Netclan-VinayTests
 //
-//  Created by Phanishree Kommalapati on 26/05/24.
 //
 
 import XCTest
